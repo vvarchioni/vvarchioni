@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRyeHpuOTN0bTA4dTF2dzViaThyZ2g2NHdvODZjMzBjcDA2cTlqbSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/fkb0aC33vSyuYAwqqQ/giphy.gif" width=300/> Bienvenido a mi GitHub
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRyeHpuOTN0bTA4dTF2dzViaThyZ2g2NHdvODZjMzBjcDA2cTlqbSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/fkb0aC33vSyuYAwqqQ/giphy.gif" width=200/> Bienvenido a mi GitHub
 ![Banner de Valentin](github-header-image3.png)
 
 ## Tecnologias 
