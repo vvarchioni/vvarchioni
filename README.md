@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/g0jg6lMcNORSlOv9Zb/giphy.gif" width=100]/> Bienvenido a mi GitHub
+Bienvenido a mi GitHub
 ![Banner de Valentin](github-header-image3.png)
 
 ## Tecnologias 
